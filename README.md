@@ -6,4 +6,4 @@
   - Email: lalitshirsath008@gmail.com  
   - Phone: +91 9325109257  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’ve created projects ranging from E-Farming apps for farmers to news portals and RAG-based assistants! 🚀  
+
